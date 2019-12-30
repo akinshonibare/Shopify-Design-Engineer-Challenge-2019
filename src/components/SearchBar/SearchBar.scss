@@ -1,0 +1,19 @@
+.searchbar {
+  display: flex;
+  flex-direction: row;
+}
+
+.warning {
+  margin: 2%;
+}
+
+.searchInput {
+  margin-left: 2%;
+}
+
+.searchIcon {
+  margin: 0 2%;
+  background: #24955E;
+  border-color: #24955E;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
